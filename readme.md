@@ -1,3 +1,7 @@
+# The best extra credit assignment *ever*
+This was an extra credit assignment for the course "Introduction to the Theory & Design of Programming Languages" (CS 538) taught by Kaiser Pister at UW-Madison. The prompt acknowledged the unfortunate reality of technical interviews, and made me laugh.
+
+# The provided prompt
 This is a completely optional portion of extra credit. Please use it responsibly. This part of the assignment is to be completed alone.
 
 Many of you are about to graduate and apply for jobs in industry. An unfortunate reality of our field is that potential employees are evaluated on their ability to complete rote algorithmic questions that have no basis in the realiy of being a software engineer. Rather than testing for things like self-motivation, curiosity, or critical thinking ability, we reward students who can memorize the best way to find the pair of numbers in a list sums to zero.
